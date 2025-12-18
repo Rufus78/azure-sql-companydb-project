@@ -1,0 +1,10 @@
++-------------------+
+|     Employees     |
++-------------------+
+| EmployeeID (PK)   |
+| FirstName         |
+| LastName          |
+| Department        |
+| Salary            |
+| JoiningDate       |
++-------------------+
